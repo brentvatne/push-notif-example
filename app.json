@@ -1,0 +1,20 @@
+{
+  "name": "barenotifs",
+  "displayName": "barenotifs",
+  "expo": {
+    "name": "barenotifs",
+    "slug": "barenotifs",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.barenotifs"
+    }
+  }
+}
